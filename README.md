@@ -1,1 +1,3 @@
-discovery and review app
+# Discovery and review platform for service-based businesses
+
+Бид өдөр тутамдаа ойр хавьд бидний амьдардаг газар ямар ямар бизнес үйлчилгээ эрхэлдэг газрууд байдгыг мэддэггүй. Хайх нь ч төвөгтэй байдаг. Хүнээс асууна, facebook ухна, google maps-аас хайна гэх мэт. Энэ асуудлыг бид шийдэхийг зорьж байна.
